@@ -23,8 +23,10 @@ P.S. (don't allow your binance API key use Widthrawal & Transfer permissions)
 
 1. Recommend to use Ubuntu 20.04 LTS image or docker with lighweight version (python:3-alpine) and pyenv within.
 2.  Install required libs & run it
-```pip install python-binance
+```
+pip install python-binance
 pip install binance
-python bot.py```
+python bot.py
+```
 
 3. You can use crontab to reshedule launch of the cryptobot (bot.py) whenever you want.
