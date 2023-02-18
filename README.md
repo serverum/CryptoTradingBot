@@ -1,5 +1,5 @@
 # CryptoTradingBot
-Smart CryptoTradingBot on Binance API (spot &amp; futures long/short pos) with Telegram Chat Bot Managments(commands & notifications)
+Smart CryptoTradingBot on Binance API (spot &amp; futures long/short pos) with Telegram Chat Bot Managements(commands & notifications)
 
 ## bot.py
 the main python script to start
